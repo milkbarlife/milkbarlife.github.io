@@ -10,10 +10,12 @@ layout: default
   <header class="site-masthead">
     {% include menu.html %}
     {% if site.title %}
-      <img src="assets/images/header-logo.png">
+    <img alt="{{ site.title }}" src="assets/images/header-logo.png">
+      <!--
       <h1>
         {{ site.title }}
       </h1>
+      -->
     {% endif %}
     {% if site.title %}
       <h2>
