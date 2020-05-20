@@ -16,7 +16,7 @@
 title: Milk Bar Life
 email: milkbarlife@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A collective of helpful, happy, milk-lovin' folk.
+  A collective of milk-lovin' folk.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://milkbar.life" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
