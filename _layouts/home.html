@@ -10,6 +10,7 @@ layout: default
   <header class="site-masthead">
     {% include menu.html %}
     {% if site.title %}
+      <img src="assets/images/header-logo.png">
       <h1>
         {{ site.title }}
       </h1>
@@ -33,7 +34,7 @@ layout: default
   </h1>
 
   {% if site.paginate and site.paginate_path %}
-    
+
     <ul class="post-list">
       {% for post in paginator.posts %}
         {% include post-list-item.html %}
@@ -65,8 +66,8 @@ layout: default
         {% include post-list-item.html %}
       {% endfor %}
     </ul>
-  
+
   {% endif %}
-    
+
 
 </main>
