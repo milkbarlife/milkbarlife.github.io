@@ -1,7 +1,7 @@
 ---
 title: "Gimme My Usual"
 layout: post
-author: lewis
+author: "Lewis Owl"
 categories: musings
 ---
 
