@@ -20,7 +20,7 @@ A ruckus began as soon as the last syllable left the little penguin's beak. It s
 Flint vacated the stage and Michael, the Bar owner himself, stepped up to the podium. He took a deep breath and began, drama and gravitas dripping from every syllable.
 
 <center>Milk Milk Milk Milk Milk</center>
-<center>Milk Milk Milk Milk Milk Milk Milk</center>
+<center>Mm Mm Mm Mm Mm Mm Mm</center>
 <center>Milk Milk Milk Milk Milk</center>
 
 The crowd erupted with applause, clinked glasses, and shouted a mix of happy congratulations and orders for more milk. It was a good night at the Milk Bar.
