@@ -11,7 +11,7 @@ A large grandfather clock chimed loudly and the Bar patrons quieted down. A ligh
 
 Nectar of the Gods\
 Like a light in the ocean\
-Comfort in a glass\
+Comfort in a glass
 
 A ruckus began as soon as the last syllable left the little penguin's beak. It sounded somewhat like mushy banana feet pounding on the wood floor and, maybe, the clanking of swords? It was hard to know for sure with the lights so dim.
 
@@ -21,6 +21,6 @@ Flint vacated the stage and Michael, the Bar owner himself, stepped up to the po
 
 Milk Milk Milk Milk Milk\
 Milk Milk Milk Milk Milk Milk Milk\
-Milk Milk Milk Milk Milk\
+Milk Milk Milk Milk Milk
 
 The crowd erupted with applause, clinked glasses, and shouted a mix of happy congratulations and orders for more milk. It was a good night at the Milk Bar.
