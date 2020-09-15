@@ -9,9 +9,9 @@ The Bar was alive with an uncommon energy. A sign outside read "Poetry Night! Co
 
 A large grandfather clock chimed loudly and the Bar patrons quieted down. A light slowly began to shine on a podium set up on the stage. A small, scruffy-yet-well-kept penguin with a pirate hat stepped into the light, unfolded a piece of parchment, and began to read.
 
-Nectar of the Gods
-Like a light in the ocean
-Comfort in a glass
+Nectar of the Gods\
+Like a light in the ocean\
+Comfort in a glass\
 
 A ruckus began as soon as the last syllable left the little penguin's beak. It sounded somewhat like mushy banana feet pounding on the wood floor and, maybe, the clanking of swords? It was hard to know for sure with the lights so dim.
 
@@ -19,8 +19,8 @@ A ruckus began as soon as the last syllable left the little penguin's beak. It s
 
 Flint vacated the stage and Michael, the Bar owner himself, stepped up to the podium. He took a deep breath and began, drama and gravitas dripping from every syllable.
 
-Milk Milk Milk Milk Milk
-Milk Milk Milk Milk Milk Milk Milk
-Milk Milk Milk Milk Milk
+Milk Milk Milk Milk Milk\
+Milk Milk Milk Milk Milk Milk Milk\
+Milk Milk Milk Milk Milk\
 
 The crowd erupted with applause, clinked glasses, and shouted a mix of happy congratulations and orders for more milk. It was a good night at the Milk Bar.
