@@ -19,7 +19,7 @@ Leif rolled his shoulders, his exhales rolling out regularly like a wave. He clo
 
 Leif gave no indication that he had heard anything else Michael had said, but mumbled something about needing to prepare. And now, here we were. Show time.
 
-Leif had made some emergency calls and was now ushering in truckloads of potatoes into the living room. He lined the floor with, easily filling the room with a three foot layer of potatoes. Once that was done, he put his flippers on his hips and admired the fruits of his labor.
+Leif had made some emergency calls and was now ushering in truckloads of potatoes into the living room. He lined the floor with them, easily filling the room with a three foot layer of potatoes. Once that was done, he put his flippers on his hips and admired the fruits of his labor.
 
 He had never seen anything so beautiful in all his life. But he must remain focused. These potatoes had a purpose, and so did he.
 
