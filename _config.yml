@@ -23,8 +23,6 @@ icon: /assets/images/icon-512.png
 twitter_username: milkbarlife
 github_username:  milkbarlife
 
-google_analytics: "UA-136625-6"
-
 # Build settings
 markdown: kramdown
 
